@@ -589,7 +589,6 @@ nav .navbar {
   .box-menu {
     justify-content: space-around;
     align-items: center;
-    width: 100%;
   }
 
   .toggle,
